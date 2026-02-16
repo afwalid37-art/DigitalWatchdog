@@ -3,3 +3,8 @@
 # azure-monitor-opentelemetry 
 
 azure-functions
+pandas
+faker
+openpyxl
+sqlalchemy
+pyodbc
